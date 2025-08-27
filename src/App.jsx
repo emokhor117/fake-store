@@ -59,7 +59,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>🛍️ MY Clothing Store</h1>
+      <h1>🛍️ JOY Clothing Store</h1>
 
       
       <div className="filters">
